@@ -13,11 +13,9 @@
 
 ## 📥 Download
 دانلود:  [releases]
-| Platform | Status |
-|----------|----------|| Windows | ✅ Stable|| MacOS | ✅ Stable || Linux | ✅ Stable |
-
-
-
+| Platform |
+| ------------- |
+| Windows  |
 ## 🦠 Antivirus Result
 شما میتوانید نتیجه آنتی ویروس را در  [اینجا](https://www.virustotal.com/gui/file/676b8f73490092aa7f214a163db9d3512412ad92ad9ce559a405c176f50c4612?nocache=1) مشاهده کنید 
 
