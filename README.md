@@ -1,4 +1,4 @@
-do<div dir="rtl">
+<div dir="rtl">
   
 # ایزی صراف
   
