@@ -5,8 +5,8 @@
 برنامه ای کاربردی برای نمایش قیمت لحظه ای ارز ، سکه و طلا 
 
 #### 🖼 تصاویر:
-![AppScreenshot](https)
-![ConsoleAppScreenshot](https://)
+![AppScreenshot](https://pne-team.ir/easy-saraf/images/home.png)
+![AppScreenshot](https://pne-team.ir/easy-saraf/images/Arz.png)
 
 
 ### نحوه استفاده:
