@@ -11,7 +11,13 @@
 <img src="https://pne-team.ir/easy-saraf/images/Arz.png" width="400">
 </div>
 
+<div align="center">
+<a href="https://idpay.ir/nimaglobals">Donate Me</a>
+<br>
+  <img src="https://img.shields.io/github/downloads/nima-globals/easy-saraf/total.svg" alt="total" >
 
+<img src="https://img.shields.io/github/stars/nima-globals/easy-saraf" alt="stars">
+</div>
 
 ### نحوه استفاده:
 برنامه را دانلود کنید و باز کنید حالا روی هر لیستی که دوست دارید کلیک کنید و قیمت همان لحظه را مشاهده کنید 
