@@ -6,9 +6,11 @@
 
 
 #### 🖼 تصاویر:
+<div align="center">
+<img src="https://pne-team.ir/easy-saraf/images/home.png" width="400">
+<img src="https://pne-team.ir/easy-saraf/images/Arz.png" width="400">
+</div>
 
-![AppScreenshot](https://pne-team.ir/easy-saraf/images/home.png)
-![AppScreenshot](https://pne-team.ir/easy-saraf/images/Arz.png)
 
 
 ### نحوه استفاده:
@@ -17,7 +19,7 @@
 بخاطر دریافت قیمت (ارز ، طلا و سکه) لحظه ای ممکن است باز شدن لیست ها کنی طول بکشد 
 
 ## 📥 دانلود
-دانلود: [releases](https://github.com/pne-team/easy-saraf/releases)
+دانلود: [releases](https://github.com/nima-globals/easy-saraf/releases)
 
 | Platform |
 | ------------- |
